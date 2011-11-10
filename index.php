@@ -1,4 +1,4 @@
 Welcome to SOLID project!
 
-It is the worst project in the world.
+It is the best project in the world.
 
